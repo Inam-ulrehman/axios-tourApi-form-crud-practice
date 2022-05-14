@@ -61,6 +61,7 @@ const Wrapper = styled.article`
   .description {
     display: grid;
     place-items: center;
+    padding: 2rem;
   }
 `
 
